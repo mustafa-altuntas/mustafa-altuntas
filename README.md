@@ -1,9 +1,9 @@
 <h1 align="center">Merhaba 👋, Ben Mustafa ALTUNTAŞ</h1>
 <h3 align="center">.NET CORE GELİŞTİRİCİSİ</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mustafa-altuntas&label=Profile%20views&color=0e75b6&style=flat" alt="mustafa-altuntas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafa-altuntas&label=Profile%20views&color=0e75b6&style=flat" alt="mustafa-altuntas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafa-altuntas" alt="mustafa-altuntas" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafa-altuntas" alt="mustafa-altuntas" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
