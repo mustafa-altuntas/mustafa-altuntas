@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mustafa ALTUNTAŞ</h1>
+<h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">Software Developer</h3>
 
 
