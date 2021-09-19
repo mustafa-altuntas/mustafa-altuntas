@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">Software Developer</h3>
 
+<div align="center"><img src="https://media.giphy.com/media/3o7btNhMBytxAM6YBa/giphy.gif?cid=ecf05e4761918da8224e2153be506476c32abc2833606879&rid=giphy.gif&ct=g" width="360" height="210"  /> </div>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafa-altuntas" alt="mustafa-altuntas" /></a> </p>
 
